@@ -1,6 +1,6 @@
 This is a basic text file.
 
-Let's start a list.
+Let's start a list of colors.
 
 Colors of the rainbow:
 1. Red
